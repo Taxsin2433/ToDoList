@@ -90,6 +90,7 @@ namespace ToDolist
             }
         }
 
+        // -- //
         /*{for (int i = 0; i < toDoItems.Count; i++) 
                 {
                   string numbertask = Convert.ToInt32(Console.WriteLine(i + " : " + toDoItems[i]));
